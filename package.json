@@ -16,8 +16,8 @@
   "license": "GPL-3.0",
   "repository": "sffc/cc-studio",
   "devDependencies": {
-    "electron": "^19",
-    "electron-builder": "^23",
+    "electron": "^22",
+    "electron-builder": "^26",
     "electron-devtools-installer": "^3.2.0",
     "eslint": "^8.10.0",
     "stylus": "^0.54.5"
